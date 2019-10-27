@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("second commit");
+            Console.WriteLine("only on branch develop");
         }
     }
 }
